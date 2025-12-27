@@ -6,7 +6,7 @@
 💻 Programming: Python, C, Verilog  
 
 ### Key Projects
-- 32-bit ALU Design using Cadence Virtuoso
+- High performance Hybrid Full Adder design using Cadence Virtuoso for VLSI Circuits.
 - MIMO System over Rayleigh Fading Channel
 - Snake Game with GUI (Python Tkinter)
 
